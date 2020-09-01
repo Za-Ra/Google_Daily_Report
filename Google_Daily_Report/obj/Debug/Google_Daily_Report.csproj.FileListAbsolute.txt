@@ -7,3 +7,15 @@ D:\Visual_Studio_2012\C#\[Za-Ra]\Google_Daily_Report\Google_Daily_Report\obj\Deb
 D:\Visual_Studio_2012\C#\[Za-Ra]\Google_Daily_Report\Google_Daily_Report\obj\Debug\Google_Daily_Report.csproj.GenerateResource.Cache
 D:\Visual_Studio_2012\C#\[Za-Ra]\Google_Daily_Report\Google_Daily_Report\obj\Debug\Google_Daily_Report.exe
 D:\Visual_Studio_2012\C#\[Za-Ra]\Google_Daily_Report\Google_Daily_Report\obj\Debug\Google_Daily_Report.pdb
+D:\[Scott]\[11][Git]\Google_Daily_Report\Google_Daily_Report\bin\Debug\Google_Daily_Report.exe.config
+D:\[Scott]\[11][Git]\Google_Daily_Report\Google_Daily_Report\obj\Debug\Google_Daily_Report.exe
+D:\[Scott]\[11][Git]\Google_Daily_Report\Google_Daily_Report\obj\Debug\Google_Daily_Report.pdb
+D:\[Scott]\[10][Visual_Studio]\[C#]\[Others]\Google_Daily_Report\Google_Daily_Report\bin\Debug\Google_Daily_Report.exe.config
+D:\[Scott]\[10][Visual_Studio]\[C#]\[Others]\Google_Daily_Report\Google_Daily_Report\obj\Debug\Google_Daily_Report.exe
+D:\[Scott]\[10][Visual_Studio]\[C#]\[Others]\Google_Daily_Report\Google_Daily_Report\obj\Debug\Google_Daily_Report.pdb
+D:\[Scott]\[10][Visual_Studio]\[C#]\[Others]\Google_Daily_Report\Google_Daily_Report\bin\Debug\Google_Daily_Report.exe
+D:\[Scott]\[10][Visual_Studio]\[C#]\[Others]\Google_Daily_Report\Google_Daily_Report\bin\Debug\Google_Daily_Report.pdb
+D:\[Scott]\[10][Visual_Studio]\[C#]\[Others]\Google_Daily_Report\Google_Daily_Report\obj\Debug\Google_Daily_Report.csprojResolveAssemblyReference.cache
+D:\[Scott]\[10][Visual_Studio]\[C#]\[Others]\Google_Daily_Report\Google_Daily_Report\obj\Debug\Google_Daily_Report.Form_Daily_Report.resources
+D:\[Scott]\[10][Visual_Studio]\[C#]\[Others]\Google_Daily_Report\Google_Daily_Report\obj\Debug\Google_Daily_Report.Properties.Resources.resources
+D:\[Scott]\[10][Visual_Studio]\[C#]\[Others]\Google_Daily_Report\Google_Daily_Report\obj\Debug\Google_Daily_Report.csproj.GenerateResource.Cache
