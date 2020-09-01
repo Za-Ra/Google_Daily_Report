@@ -2,8 +2,8 @@ D:\Visual_Studio_2012\C#\[Za-Ra]\Google_Daily_Report\Google_Daily_Report\bin\Deb
 D:\Visual_Studio_2012\C#\[Za-Ra]\Google_Daily_Report\Google_Daily_Report\bin\Debug\Google_Daily_Report.exe
 D:\Visual_Studio_2012\C#\[Za-Ra]\Google_Daily_Report\Google_Daily_Report\bin\Debug\Google_Daily_Report.pdb
 D:\Visual_Studio_2012\C#\[Za-Ra]\Google_Daily_Report\Google_Daily_Report\obj\Debug\Google_Daily_Report.csprojResolveAssemblyReference.cache
-D:\Visual_Studio_2012\C#\[Za-Ra]\Google_Daily_Report\Google_Daily_Report\obj\Debug\Google_Daily_Report.Form1.resources
 D:\Visual_Studio_2012\C#\[Za-Ra]\Google_Daily_Report\Google_Daily_Report\obj\Debug\Google_Daily_Report.Properties.Resources.resources
 D:\Visual_Studio_2012\C#\[Za-Ra]\Google_Daily_Report\Google_Daily_Report\obj\Debug\Google_Daily_Report.csproj.GenerateResource.Cache
 D:\Visual_Studio_2012\C#\[Za-Ra]\Google_Daily_Report\Google_Daily_Report\obj\Debug\Google_Daily_Report.exe
 D:\Visual_Studio_2012\C#\[Za-Ra]\Google_Daily_Report\Google_Daily_Report\obj\Debug\Google_Daily_Report.pdb
+D:\Visual_Studio_2012\C#\[Za-Ra]\Google_Daily_Report\Google_Daily_Report\obj\Debug\Google_Daily_Report.Form_Daily_Report.resources
